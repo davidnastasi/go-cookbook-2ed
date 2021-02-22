@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/go-programing-cookbook-2ed/chapter1/interfaces"
+	"github.com/davidnastasi/go-programing-cookbook-2ed/chapter1/interfaces"
 )
 
 func main() {

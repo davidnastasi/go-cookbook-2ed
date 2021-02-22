@@ -1,4 +1,4 @@
-module github.com/go-programing-cookbook-2ed/chapter4/errwrap
+module github.com/davidnastasi/go-programing-cookbook-2ed/chapter4/errwrap
 
 go 1.13
 

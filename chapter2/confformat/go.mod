@@ -1,4 +1,4 @@
-module github.com/go-programing-cookbook-2ed/chapter2/confformat
+module github.com/davidnastasi/go-programing-cookbook-2ed/chapter2/confformat
 
 go 1.13
 

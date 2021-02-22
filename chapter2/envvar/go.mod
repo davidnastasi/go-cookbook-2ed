@@ -1,4 +1,4 @@
-module github.com/go-programing-cookbook-2ed/chapter2/envvar
+module github.com/davidnastasi/go-programing-cookbook-2ed/chapter2/envvar
 
 go 1.13
 

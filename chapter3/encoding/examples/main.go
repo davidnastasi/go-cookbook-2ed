@@ -1,6 +1,6 @@
 package main
 
-import "github.com/go-programing-cookbook-2ed/chapter3/encoding"
+import "github.com/davidnastasi/go-programing-cookbook-2ed/chapter3/encoding"
 
 func main() {
 	if err := encoding.Base64Example(); err != nil {

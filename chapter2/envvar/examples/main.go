@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/go-programing-cookbook-2ed/chapter2/envvar"
+	"github.com/davidnastasi/go-programing-cookbook-2ed/chapter2/envvar"
 )
 
 // Config ...
