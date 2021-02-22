@@ -1,6 +1,6 @@
 package main
 
-import "github.com/davidnastasi/go-programing-cookbook-2ed/chapter2/confformat"
+import "github.com/davidnastasi/go-programming-cookbook-2ed/chapter2/confformat"
 
 func main() {
 	if err := confformat.MarshalAll(); err != nil {

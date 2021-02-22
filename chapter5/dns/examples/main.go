@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/davidnastasi/go-programing-cookbook-2ed/chapter5/dns"
+	"github.com/davidnastasi/go-programming-cookbook-2ed/chapter5/dns"
 	"log"
 	"os"
 )

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/davidnastasi/go-programing-cookbook-2ed/chapter6/database"
+import "github.com/davidnastasi/go-programming-cookbook-2ed/chapter6/database"
 
 func main() {
 	db, err := database.Setup()

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/davidnastasi/go-programing-cookbook-2ed/chapter3/dataconv"
+import "github.com/davidnastasi/go-programming-cookbook-2ed/chapter3/dataconv"
 
 func main() {
 	dataconv.ShowConv()
